@@ -1,0 +1,14 @@
+{
+    "name": "fancy-store-bot",
+    "version": "1.0.0",
+    "description": "Advanced Ticket Store Bot for Fancy Store",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@napi-rs/canvas": "^0.1.98",
+        "discord-html-transcripts": "^3.2.0",
+        "discord.js": "^14.26.4"
+    }
+}
